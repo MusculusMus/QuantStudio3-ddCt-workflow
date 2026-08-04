@@ -1,4 +1,4 @@
-# QuantStudio 3  ΔΔCt workfloW
+# QuantStudio3  ΔΔCt workfloW
 
 This lightweight R workflow imports one or more tab-delimited QuantStudio™ 3 exports, converts them into the format expected by the Bioconductor [`ddCt`](https://bioconductor.org/packages/ddCt/) package, and calculates relative expression with the ΔΔCt method.
 
